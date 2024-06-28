@@ -1,5 +1,5 @@
 # Hi there 👋
-![Profile Image]
+
 
 ## Contact Information
 - **Name:** Lucas Whitehead
