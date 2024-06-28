@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there 👋
+![Profile Image]
 
-<!--
-**Lucasw7493/Lucasw7493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact Information
+- **Name:** Lucas Whitehead
+- **Email:** lucaswhitehead7433@gmail.com
+- **Phone:** (423) 895-16363
+- **Location:** Roan Mountain, Tennessee
 
-Here are some ideas to get you started:
+## Professional Summary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Work Experience
+### Job Title at Company Name
+- **Duration:** Start Date - End Date
+- **Description:** Detailed description of your role and responsibilities.
+
+### Job Title at Company Name
+- **Duration:** Start Date - End Date
+- **Description:** Detailed description of your role and responsibilities.
+
+## Education
+### Name
+- **Duration:** Start Date - End Date
+- **Description:** Detailed description of your studies and achievements.
+
+## Skills
+- Skill 1
+- Skill 2
+- Skill 3
+
+## Projects
+### Project Title
+- **Description:** Detailed description of the project.
+
+### Project Title
+- **Description:** Detailed description of the project.
+
+## Certifications
+- Certification Name
+
+
+## Hobbies
+- Hobby 1
+- Hobby 2
+
+
+
+  
